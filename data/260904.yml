@@ -7,7 +7,7 @@ about:
   head: 2a6b1cc
   archived: false
   latestVersion: 0.1.7
-  collectedAt: 2026-09-04T19:58:38Z
+  collectedAt: 2026-09-04T20:40:22Z
 timeline:
   created: 2026-03-17
   lastCommit: 2026-04-30
@@ -81,5 +81,33 @@ total:
   openIssue: 0
   commit: 25
 ---
+path: /home/runner/.x-repo/github.com/NustyFrozen/SEE
+collectedAt: 2026-09-04T20:40:23Z
+loc:
+  Rust:
+    code: 1442
+    comments: 69
+    blanks: 118
+    files: 6
+  Nix:
+    code: 59
+    comments: 0
+    blanks: 16
+    files: 1
+  Toml:
+    code: 23
+    comments: 0
+    blanks: 2
+    files: 2
+  Markdown:
+    code: 0
+    comments: 20
+    blanks: 3
+    files: 1
+total:
+  code: 1524
+  comments: 97
+  blanks: 141
+  files: 10
 ---
 
