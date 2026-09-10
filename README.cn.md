@@ -4,13 +4,24 @@
 
 see (Service Event Extraction) is a TUI based tool to lookup logs from services (systemd)
 
-![SEE](https://repo.x-cmd.io/SEE.svg)
+![SEE](https://repo.x-cmd.io/SEE.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install SEE
 ```
+
+## 代码洞察
+
+合计: **1,524** 行代码（覆盖前 5 种语言、共 **10** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 1,442 | 69 | 118 | 6 |
+| Nix | 59 | 0 | 16 | 1 |
+| Toml | 23 | 0 | 2 | 2 |
+| Markdown | 0 | 20 | 3 | 1 |
 
 ## 源代码
 
@@ -22,7 +33,6 @@ x install SEE
 - **最新版本**: `0.1.7` (2026-04-30)
 - **最近提交**: 2026-04-30
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-04-30T17:34:14Z
 
 ## 流行度
 
@@ -37,19 +47,17 @@ x install SEE
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 3 | 0 | 0 | 3 | 0 | 24 |
 | 360d | 2025-09-15 | 3 | 0 | 0 | 3 | 0 | 24 |
+| last720d | 2024-09-20 | 3 | 0 | 0 | 3 | 0 | 25 |
 
-## 代码规模
+## Release 资产
 
-合计: **1,524** 行代码（覆盖前 5 种语言、共 **10** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 1,442 | 69 | 118 | 6 |
-| Nix | 59 | 0 | 16 | 1 |
-| Toml | 23 | 0 | 2 | 2 |
-| Markdown | 0 | 20 | 3 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [seetui](https://github.com/NustyFrozen/SEE/releases/download/0.1.7/seetui) | 4.2 MiB | `other` |
 
 ## 改进这些数据
 
@@ -60,4 +68,4 @@ SEE 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:09:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:50:11Z._
