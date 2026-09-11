@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4367728,
       "digest": "sha256:511f30a72ca62a1062acb3293b9560c7b465d58fd6c0b6f14911b5d9a989baa7",
-      "download_count": 105,
+      "download_count": 106,
       "created_at": "2026-04-30T17:33:51Z",
       "updated_at": "2026-04-30T17:33:53Z",
       "browser_download_url": "https://github.com/NustyFrozen/SEE/releases/download/0.1.7/seetui"
